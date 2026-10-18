@@ -1,6 +1,6 @@
 {
   "name": "Lumina Dental Studio",
-  "description": "A high-tech, precision-focused clinical theme for Lumina Dental, featuring advanced aesthetic engineering and a futuristic healthcare UI.",
+  "description": "Next-Generation High-Tech Precision Dental Clinic platform with 24/7 AI Concierge Agent, interactive Before/After smile simulator, treatment cost estimator, and precision clinical specs.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": ["24/7 AI Dental Concierge", "Interactive Smile Simulator", "Treatment Cost Estimator", "Precision Clinical Lab Architecture"]
 }

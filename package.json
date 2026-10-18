@@ -1,13 +1,14 @@
 {
-  "name": "react-example",
+  "name": "lumina-dental-clinic",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Next-Generation High-Tech Precision Dental Clinic Web Application with 24/7 AI Concierge Agent",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
     "preview": "vite preview",
-    "clean": "rm -rf dist",
+    "clean": "node -e \"fs.rmSync('dist', { recursive: true, force: true })\"",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
